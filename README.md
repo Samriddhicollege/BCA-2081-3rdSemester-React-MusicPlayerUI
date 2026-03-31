@@ -93,10 +93,10 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/darshanasht/music-player.git
+git clone https://github.com/Samriddhicollege/BCA-2081-3rdSemester-React-MusicPlayerUI.git
 
 # Go to project folder
-cd music-player
+cd BCA-2081-3rdSemester-React-MusicPlayerUI
 
 # Install dependencies
 npm install
@@ -138,9 +138,8 @@ music-player/
 
 ## GitHub & Live Demo
 
-* **GitHub Repository:** https://github.com/darshanasht/music-player
-* **Live URL (if deployed):** https://music-player.netlify.app
-
+* **GitHub Repository:** https://github.com/Samriddhicollege/BCA-2081-3rdSemester-React-MusicPlayerUI.git
+* **Live URL :** https://darshana-music-player.vercel.app/
 ---
 
 ## Testing
